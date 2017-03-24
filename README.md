@@ -1,7 +1,7 @@
 # mockapi
 简易的MockServer+api文档服务
 此服务利用nodejs+vue搭建，无数据库连接，可以当做假数据接口服务使用也可以单独作为api接口文档使用。
-ui代码copy自我朋友的项目 [foo]: https://github.com/ShuangRen/ShuangRen-doc  "ShuangRen-doc", 特别感谢一下。
+ui代码copy自我朋友的项目 [Title]https://github.com/ShuangRen/ShuangRen-doc "ShuangRen-doc", 特别感谢一下。
 
 # 启动方式
 1. 安装nodejs
