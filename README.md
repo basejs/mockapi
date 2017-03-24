@@ -21,6 +21,7 @@ ui代码copy自我朋友的项目 [ShuangRen-doc](https://github.com/ShuangRen/S
 ## 服务端
 1. /config.js 可以配置apiServer(真实接口地址)、type(请求方式)
 2. type有三个值可选，默认为default。 
-   * default先请求真实接口，没有数据时请求mock接口
-   * mock只请求mock接口
-   * real只请求真实接口
+  *   default先请求真实接口，没有数据时请求mock接口
+  *   mock只请求mock接口
+  *   real只请求真实接口
+
